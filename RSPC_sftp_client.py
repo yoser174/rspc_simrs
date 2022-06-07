@@ -8,7 +8,11 @@ from os import walk
 from stat import S_ISDIR, S_ISREG
 
 VERSION = '0.0.1'
+
+# ubah sesuaikan dengan file di infinity
 OUT_HL7_DIR = '/home/ubuntu/DEV/HL7'
+
+
 OUT_TXT_DIR = '/home/ubuntu/DEV/TXT'
 
 
@@ -118,7 +122,5 @@ def get_ftp_file():
 
 if __name__ == "__main__":
     logging.info('version [%s]' % VERSION)
-    filename = '/home/ubuntu/DEV/LAB-20220511-L0008.txt'
     get_ftp_file()
-    #ini_to_hl7(filename)
 

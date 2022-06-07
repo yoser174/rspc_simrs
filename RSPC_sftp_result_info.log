@@ -1,0 +1,152 @@
+2022-06-07 13:20:33,703 - root - INFO - version [0.0.1]
+2022-06-07 13:21:40,876 - root - INFO - version [0.0.1]
+2022-06-07 13:21:40,876 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:29:57,818 - root - INFO - version [0.0.1]
+2022-06-07 13:29:57,818 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:31:37,565 - root - INFO - version [0.0.1]
+2022-06-07 13:31:37,565 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:31:56,689 - root - INFO - version [0.0.1]
+2022-06-07 13:31:56,690 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:41:08,734 - root - INFO - version [0.0.1]
+2022-06-07 13:41:08,735 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:42:40,086 - root - INFO - version [0.0.1]
+2022-06-07 13:42:40,087 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:43:18,779 - root - INFO - version [0.0.1]
+2022-06-07 13:43:18,779 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:45:00,662 - root - INFO - version [0.0.1]
+2022-06-07 13:45:00,662 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:45:00,664 - root - INFO - [MSH]
+message_id=ORU^R01^ORU_R01
+2022-06-07 13:45:10,678 - root - INFO - version [0.0.1]
+2022-06-07 13:45:10,678 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:45:10,680 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+2022-06-07 13:47:08,978 - root - INFO - version [0.0.1]
+2022-06-07 13:47:08,979 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:47:08,980 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=
+
+2022-06-07 13:47:19,982 - root - INFO - version [0.0.1]
+2022-06-07 13:47:19,982 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:47:19,984 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+
+2022-06-07 13:48:02,813 - root - INFO - version [0.0.1]
+2022-06-07 13:48:02,813 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:48:02,815 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.3
+
+2022-06-07 13:48:37,210 - root - INFO - version [0.0.1]
+2022-06-07 13:48:37,211 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:48:37,212 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+
+2022-06-07 13:49:59,406 - root - INFO - version [0.0.1]
+2022-06-07 13:49:59,407 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:49:59,408 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+
+2022-06-07 13:53:41,760 - root - INFO - version [0.0.1]
+2022-06-07 13:53:41,761 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:53:41,762 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+version=2.5
+
+2022-06-07 13:53:47,717 - root - INFO - version [0.0.1]
+2022-06-07 13:53:47,717 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:53:47,719 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+version=2.5
+
+2022-06-07 13:54:00,232 - root - INFO - version [0.0.1]
+2022-06-07 13:54:00,232 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:54:00,234 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+pid=R20010416
+
+2022-06-07 13:55:23,377 - root - INFO - version [0.0.1]
+2022-06-07 13:55:23,378 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:55:23,380 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+pid=R20010416
+apid=
+pname=MINARSO BUDIANTO
+pid=R20010416
+pid=R20010416
+
+2022-06-07 13:57:26,269 - root - INFO - version [0.0.1]
+2022-06-07 13:57:26,270 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:57:26,272 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+pid=R20010416
+apid=
+pname=MINARSO BUDIANTO
+title=
+title=
+ptype=
+birth_dt=19870108
+pid=R20010416
+pid=R20010416
+pid=R20010416
+pid=R20010416
+
+2022-06-07 13:57:31,194 - root - INFO - version [0.0.1]
+2022-06-07 13:57:31,194 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:57:31,196 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+pid=R20010416
+apid=
+pname=MINARSO BUDIANTO
+title=
+title=
+ptype=
+birth_dt=19870108
+pid=R20010416
+pid=R20010416
+pid=R20010416
+pid=R20010416
+
+2022-06-07 13:57:57,236 - root - INFO - version [0.0.1]
+2022-06-07 13:57:57,236 - root - INFO - proses file [/home/ubuntu/DEV/RSPC/202206071232110064088.hl7]...
+2022-06-07 13:57:57,238 - root - INFO - [MSH]
+message_id=A43FFA59-C75E-4F2F-8CAC-455121B4E5BC
+message_dt=20220607123135
+version=2.5
+[OBR]
+pid=R20010416
+apid=
+pname=MINARSO BUDIANTO
+title=
+ptype=
+birth_dt=19870108
+pid=R20010416
+pid=R20010416
+pid=R20010416
+pid=R20010416
+
