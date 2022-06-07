@@ -2,5 +2,6 @@ FTP/
 file.txt
 private.ppk
 paramiko.log
+readme.txt
 RSPC_sftp_client_errors.log
 RSPC_sftp_client_info.log
